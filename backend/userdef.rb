@@ -11,7 +11,7 @@ end
 
 me = User.new("0", "Wedjat", "Japanese", "1")
 
-puts me.@myID
+puts me.myID
 puts me.myLevel
 #me.myLevel++
 #puts me.myLevel

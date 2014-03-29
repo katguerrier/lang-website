@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<link type="text/css" rel="stylesheet" href="style.css" />
+		<script src="jquery.js"></script>
+	</head>
+	<body>
+		<div id="logoBox"><img src="logoStandin.png" /></div>
+		<!-- SERIOUSLY our links need HOMES. Or, like, Hyrules. -->
+		<nav id="navBar" role="navigation">
+			<div id="button"><a href="index.html">Home</a></div>
+			<div id="button"><a href="lessons/index.html">Lessons</a></div>
+			<div id="button"><a href="practice/index.html">Practice</a></div>
+			<div id="button"><a href="community/index.html">Community</a></div>
+		</nav>
+		<nav id="crumbTrail">
+			<a href="index.html">Home</a> > <a href="practice/index.html">Practice</a> > <a href="practice/writing.html">Writing</a> > <a href="practice/writing/lesson1.html">Lesson 1</a>
+		</nav>
+		<div class="longbox">Write the sentence below in Japanese. After finishing, click the "submit" button, and your answer will be checked.</div>
+
+		<!-- WIP: This is where the Javascript should be taking over.
+		  ~~ Fetch random examples, display them... rearrange them if necessary, etc. -->
+		<div id="writingExDisplay">Yesterday, I ate dinner and went to bed at 10.</div>
+		<div class="sidebar" id="strokeOrderLookup"></div>
+		<div id="userHandwritingInput"></div>
+		<div class="popup" id="mouseOverPopup"></div>
+		<div class="popup" id="correctionPopup"></div>
+		<button>Submit</button>
+		<div id="correctionsDisplay"></div>
+		<div id="suggestionBox"></div>
+
+	</body>
+</html>

@@ -23,10 +23,17 @@
 		<nav id="crumbTrail">
 			<a href="index.html">Home</a> > <a href="practice/index.html">Practice</a> > <a href="practice/speaking.html">Speaking</a> > <a href="practice/lesson1.html">Lesson 1</a>
 		</nav>
-		<div id="directions">Click the microphone icon and repeat after the prompt sentence.</div>
-		<div id="micDisplay"></div>
-		<div id="prompt"></div>
-		<div id="userOutput"></div> <!-- Transcribe what the user is saying, best-guess. Don't show till afterwards, to eliminate nervousness? -->
+
+		<div id="directions">Click the microphone icon and recite the prompt sentence.</div>
+		<div id="micDisplay"><img src="microphone.png" /></div>
+		<div id="prompt"><em>すごく疲れて、腹減ったよ</em></div>
+		<div id="userOutput">
+			<p>よくできました！</p>
+			<p>This is what we heard: <em>すごく疲れた、腹減った</em></p>
+			<p>Very close!</p> <!-- Popup that highlights errors & gives correction. -->
+			<p>がんばってください～！</p>
+		</div> 
+		<!-- Transcribe what the user is saying, best-guess. Don't show till afterwards, to eliminate nervousness? -->
 		<!-- Popups for critique? Practice suggestions? Etc... -->
 	</body>
 </html>

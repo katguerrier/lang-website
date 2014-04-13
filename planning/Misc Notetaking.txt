@@ -1,0 +1,62 @@
+Launch Languages:
+	- French
+	- German
+	- Spanish
+
+	- Arabic
+	- Russian
+
+	- Japanese
+	- Mandarin
+
+
+Site Sections:
+	- Lessons
+	- Practice
+	- Profile
+		- Calendar (for setting schedules; dynamic based on difficulty & rate of acquisition)
+		- Settings (time zone, mic + webcam, communication preferences)
+		- Mastery Indicator (like KhanAcademy)
+	- Community
+		- Forums
+		- PenPal Finder
+		- Games
+		- Live Chat
+			- Text
+			- Voice
+		- "ChatRoulette" - lang-targeted
+	- Monetization Offers
+		- Tutoring
+		- Travel: Academy Packages!
+		- Amazon Affilliate linking for pre-built lists of appropriate materials for users (books, television, movies, music)
+
+
+Bases of Fluency:
+	- Pronunciation
+		- JP: Syllabaries
+		- IPA useful.
+	- Writing System
+		- JP: Syllabaries, kanji
+	- Basic Vocabulary
+		- Cognates
+		- 1,000 Most Frequent Words
+			- JP: and kanji
+	- Grammar Features:
+		Sentence Structure
+		Expressions
+		Asserting Time, Place, Etc; Details
+		Tense
+		Volition
+		Obligation
+		Linking Sentences
+	- Understanding "Foreign Thought" (the way they express themselves in target)
+	
+	Connecting/Signal Phrases
+
+
+
+Game Section:
+	- Dixit
+	- Say Anything
+	- Once Upon A Time
+	- "Scrabble" (heavily modified)

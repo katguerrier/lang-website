@@ -1,0 +1,17 @@
+Reading Exercises:
+- Read passage and answer questions.
+- Choose meaning/reading of a certain character (particularly in a certain context)
+
+Writing Exercises:
+	Handwriting Exercises:
+		- Transcribe a passage.
+		- Write a response to a prompt (dynamically checks like BonPatron)
+
+Listening Exercises:
+- Transcribe sentence
+- Listen to a conversation; answer questions
+
+Speaking Exercises:
+- Recite sentence/passage on screen
+- Repeat after computer voice
+- Speak a response to a prompt (very difficult technologically)

@@ -1,0 +1,31 @@
+Monetization
+
+* Affiliate Marketing - Amazon, etc;
+	Show users interesting content appropriate to their skill level, and take a cut of sales.
+
+* Advertising Revenue
+	How unobtrusive can we get this?
+
+* Tutoring Offers
+	Take a portion of profit from tutors who use our service to be matched with students. How small can we get this and still have something nice; why would they not just use competition?
+
+* Sell Advertisements
+	Include FEATURED SPOTS for Tutors.
+
+* Monetized Content Creation
+	Users can upload videos and such things where they help other students; allow them to monetize this content, and take a portion of profits.
+
+* Premium Membership
+	What incentives can we offer with this?
+
+* Microtransactions
+	The webstie is not fully "gamified", but microtransactions MAY work in its framework at some point. How can we implement these in an enticing way without breaking the "game", and collapsing reputation?
+
+* Donation
+	What incentives can we give? Can we 'sell our hours worked on the site towards a certain goal'?
+
+* Partnerships
+	This works with certificate offerers (testing through our site); test prep centers; vacation packages with immersion schools
+
+* Crowdfunding and Investments
+	Obvious source for startup costs. If we expand the business model from the website, this also works -- but care must be taken because the vision of an established business, which works for profit, seeking investment capital, whether it be reasonable or not, can have impacts on the way the business is perceived.

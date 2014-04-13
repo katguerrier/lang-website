@@ -1,6 +1,11 @@
 TODO: 
+- UPDATE IMG/CSS/JS FOR NEW PATH (./res/, ./res/img/)
+- Define a website structure with Myra, most likely; not set in stone, but a good idea of the way this should be organized.
 - Note reading/writing/speaking/listening exercises (what kinds I want).
+	- Work on ppts/flowcharts for the exercise flows so we can have a visual idea of the way exercises should work.
+- Flesh out Lesson 1 for Japanese. Define a path of lesson skeletons so that we have example material - JLPT N4 & N5...
 - Transcribe notes where needed.
+- Get an idea for an actual design.
 - Finish skeletons (listening).
 - Generate more screens.
 - Start considering backend.

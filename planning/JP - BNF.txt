@@ -1,0 +1,9 @@
+<sentence_a1> ::= <subject> <link> <copula>"。"
+<subject> ::= <noun> "は" | <pronoun> "は" | ""
+<link> ::= <noun> | <adjective>
+<copula> ::= "です"
+
+<sentence_a2> ::= <subject> <object> <verb-trans> "。"
+<object> ::= <noun> "を" | <pronoun> "を" | ""
+
+<sentence_a3> ::= <subject> <verb-intrans> "。"

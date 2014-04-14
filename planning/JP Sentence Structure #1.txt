@@ -24,6 +24,35 @@ Examples:
 Nouns may take modifiers. Pronouns may stand in for nouns. HOWEVER, this is not "Lesson 1" material. The only pronoun the user will deal with right now is 私.
 
 
+
+LANGUAGE
+	PHONOLOGY
+	WRITING SYSTEM
+	GRAMMAR
+		SENTENCE
+		WORD TYPES
+	EXPRESSIONAL
+		WORDS
+		EXPRESSIONS
+
+WRITING SYSTEM
+	SYLLABARIES
+		HIRAGANA
+		KATAKANA
+	KANJI
+
+SENTENCE
+	PATTERN
+		A-copula
+		A-trans
+		A-intrans
+	GLOSS
+
+WORDS
+...
+
+
+
 SENTENCE is an object with:
 	PATTERN
 		A-copula

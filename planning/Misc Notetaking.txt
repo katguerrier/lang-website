@@ -27,7 +27,7 @@ Site Sections:
 		- "ChatRoulette" - lang-targeted
 	- Monetization Offers
 		- Tutoring
-		- Travel: Academy Packages!
+		- Travel: Immersion Academy Packages
 		- Amazon Affilliate linking for pre-built lists of appropriate materials for users (books, television, movies, music)
 
 
@@ -60,3 +60,18 @@ Game Section:
 	- Say Anything
 	- Once Upon A Time
 	- "Scrabble" (heavily modified)
+
+
+Grammar Essentials
+	Assertive "X is Y"
+	Volitional "I want X to be..."
+	Conditional "If X were Y, then A would be..."
+	Imperative "Be Y."
+	Authorative "X must be Y"
+	Advisory "X should do Y"
+	Comparative "X is more A than Y."
+	Superlative "X is the most Z [out of A, B, C, and X]."
+	Potential "X can do Y."
+	Invitational "Let's do Y." // "Why don't you Y with me?"
+
+	Interrogative "Is X Y?"

@@ -1,0 +1,12 @@
+User
+	- Username
+	- Password
+	- "Level" 
+		- Based on the scores of all subfacets of the language.
+		- Also based on their involvement with other speakers and learners through the site's communication functions.
+
+Language
+	- Reading + Writing
+		- Writing System
+	- Listening + Speaking
+		- Phonology

@@ -1,0 +1,80 @@
+Copula (1): (NOUN は) [NOUN, ADJ.] です。
+
+Transitive (2): (NOUN は)　(NOUN を) VERB-t.。
+
+Intransitive (3): (NOUN は) VERB-in.。
+
+Examples:
+1: 
+	私は学生です。
+	私はいそしいです。
+	学生です。
+
+2:
+	私はすしを食べます。
+	私はうたえます。
+	すしを食べます。
+	食べています。
+
+3:
+	私はたっています。
+	たっています。
+
+
+Nouns may take modifiers. Pronouns may stand in for nouns. HOWEVER, this is not "Lesson 1" material. The only pronoun the user will deal with right now is 私.
+
+
+SENTENCE is an object with:
+	PATTERN
+		A-copula
+			SUBJECT   LINK        COPULA
+			(NOUN は) [NOUN][ADJ] です。
+		A-trans
+		    SUBJECT   OBJECT   VERB
+			(NOUN は) (NOUN を) [VERB-TRANS.]。
+		A-intrans
+		    SUBJECT   VERB
+			(NOUN は) [VERB-INTRANS.]。
+	GLOSS
+
+WORD is an object with:
+	NAME
+	CLASS
+		noun
+		verb
+		adjective
+		adverb
+		particle
+	GLOSS
+	(CATEGORY)
+
+VERB is a WORD.CLASS with:
+	NAME
+	CLASS
+		copula
+		transitive
+		intransitive
+	TYPE
+		ru
+		u
+		irregular
+
+"私は学生です。" is a SENTENCE with:
+	PATTERN = A-copula
+		SUBJECT: "私"
+		LINK: "学生"
+		COPULA: です。
+	GLOSS = "I am a student."
+
+学生 is a WORD with:
+	NAME: 学生・がくせい
+	CLASS: noun
+	GLOSS: "student"
+	CATEGORY: person
+
+食べる is a WORD with:
+	NAME: 食べる・たべる
+	CLASS: verb
+		CLASS: transitive
+		TYPE: ru
+	GLOSS: "eat"

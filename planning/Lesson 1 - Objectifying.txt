@@ -1,0 +1,192 @@
+Kanji
+
+KANJI is an object with structure:
+	CHARACTER
+	STROKE COUNT
+	RADICALS
+	READINGS
+	MEANING
+
+WORD is an object with structure:
+	NAME
+	KANJI 
+	TRANSLIT
+	CLASS
+		noun
+		pronoun
+		verb
+		adjective
+		adverb
+		particle
+	TRANSLATION
+	CATEGORY
+
+
+一
+	一
+	1
+	一
+	いち、い、いっ
+	one
+二三四五六七八九十百千万
+
+
+学校 is a WORD with structure:
+	NAME: がっこう
+	KANJI: 学校
+	TRANSLIT: GAKKOU
+	CLASS : noun
+	TRANSLATION: "school"
+	CATEGORY: place
+
+図書館 is a WORD with structure:
+	NAME: としょかん
+	KANJI: 図書館
+	TRANSLIT: TOSHOKAN
+	CLASS: noun
+	TRANSLATION: "library"
+	CATEGORY: place
+
+喫茶店 is a WORD with structure:
+	NAME: きっさてん
+	KANJI: 喫茶店
+	TRANSLIT: KISSATEN
+	CLASS: noun
+	TRANSLATION: "coffee shop"
+	CATEGORY: place
+
+大学　is a WORD with structure:
+	NAME:　だいがく
+	KANJI: 大学
+	TRANSLIT: DAIGAKU
+	CLASS: 	noun
+	TRANSLATION: "university", "college"
+	CATEGORY: place
+
+小学校 is a WORD with structure:
+	NAME: しょうがっこう
+	KANJI: 小学校
+	TRANSLIT: SHOUGAKKOU
+	CLASS: noun
+	TRANSLATION: "elementary school"
+	CATEGORY: place
+
+中学校 is a WORD with structure:
+	NAME: ちゅうがっこう
+	KANJI: 中学校
+	TRANSLIT: CHUUGAKKOU
+	CLASS: noun
+	TRANSLATION: "middle school"
+	CATEGORY: place
+
+高校 is a WORD with structure:
+	NAME: こうこう
+	KANJI: 高校
+	TRANSLIT: KOUKOU
+	CLASS: noun
+	TRANSLATION: "high school"
+	CATEGORY: place
+
+国 is a WORD with structure:
+	NAME: くに
+	KANJI: 国
+	TRANSLIT: KUNI
+	CLASS: noun
+	TRANSLATION: "country"
+	CATEGORY: place
+
+日本語 is a WORD with structure:
+	NAME: にほんご
+	KANJI: 日本語
+	TRANSLIT: NIHONGO
+	CLASS: noun
+	TRANSLATION: "Japanese"
+	CATEGORY: language
+
+英語 is a WORD with structure:
+	NAME: えいご
+	KANJI: 英語
+	TRANSLIT: EIGO
+	CLASS: noun
+	TRANSLATION: "English"
+	CATEGORY: language
+
+テレビ is a WORD with structure:
+	NAME: テレビ
+	KANJI: 
+	TRANSLIT: TEREBI
+	CLASS: noun
+	TRANSLATION: "T.V."
+	CATEGORY: electronic
+
+電話 is a WORD with structure:
+	NAME: でんわ
+	KANJI: 電話
+	TRANSLIT: DENWA
+	CLASS: noun
+	TRANSLATION: "phone"
+	CATEGORY: electronic
+
+日本 is a WORD with structure:
+	NAME: にほん
+	KANJI: 日本
+	TRANSLIT: NIHON
+	CLASS: noun
+	TRANSLATION: "Japan"
+	CATEGORY: country
+
+アメリカ is a WORD with structure
+	NAME: アメリカ
+	KANJI: 
+	TRANSLIT: AMERIKA
+	CLASS: noun
+	TRANSLATION: "America", "United States", "U.S.A."
+	CATEGORY: country
+
+イギリス is a WORD with structure:
+	NAME: イギリス
+	KANJI: 
+	TRANSLIT: IGIRISU
+	CLASS: noun
+	TRANSLATION: "United Kingdom", "U.K."
+	CATEGORY: country
+
+スペイン is a WORD with structure:
+	NAME: スペイン
+	KANJI: 
+	TRANSLIT: SUPEIN
+	CLASS: noun
+	TRANSLATION: "Spain"
+	CATEGORY: country
+
+フランス is a WORD with structure:
+	NAME: フランス
+	KANJI:
+	TRANSLIT: FURANSU
+	CLASS: noun
+	TRANSLATION: "France"
+	CATEGORY: country
+
+中国 is a WORD with structure:
+	NAME: ちゅうごく
+	KANJI: 中国
+	TRANSLIT: CHUUGOKU
+	CLASS: noun
+	TRANSLATION: "China"
+	CATEGORY: country
+
+韓国 is a WORD with structure:
+	NAME: かんこく
+	KANJI: 韓国
+	TRANSLIT: KANKOKU
+	CLASS: noun
+	TRANSLATION: "South Korea"
+	CATEGORY: country
+
+オーストラリア is a WORD with structure: 
+	NAME: オーストラリア
+	KANJI:
+	TRASLIT: OOSUTORARIA
+	CLASS: noun
+	TRANSLATION: "Australia"
+	CATEGORY: country

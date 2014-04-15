@@ -1,39 +1,131 @@
 Lesson #1
 
-Grammar: 
-	- Basic Sentence Structure 
-		* X は Y です
-		* X は (A　で B に) Y　を します。
+Writing System:
+	- ひらがな
+	- カタカナ
 
-- Vocabulary
-	- Kana
+	- Kanji (35):
+		一、二、三、四、五
+		六、七、八、九、十
+		百、千、万、円、時
+		今、半、分、日、月
+		火、水、木、金、土
+		曜、間、午、後、前
+		私、学、校、先、生
+
+Grammar: 
+	SENTENCE STRUCTURE A
+		A-1: (SUBJECT は) [adj][noun] です。 [copula form]
+		A-2: (SUBJECT は) (OBJECT を) VERB-T。 [transitive form]
+		A-3: (SUBJECT は) VERB-IN。 [intransitive form]
+	DICTIONARY FORM
+		見る、読む
+	POLITE FORM: PRESENT/FUTURE TENSE
+		見ます、読みます
+	MODIFYING NOUNS WITH の
+	RELATIVE PRONOUNS: この、これ SERIES
+
+
+Vocabulary
 	- Pronouns
 		* 私
+		- Demonstrative Pronouns
+			* この
+			* その
+			* あの
+			* これ
+			* それ
+			* あれ
 	- Verbs
-		* です
-		* する
-		* 行く
-		* 見る
-		* 読み
-		* 話す
-		* 勉強する　－　kanji not yet taught?
-	- Particles & Their Usage 
-		* で - assertion of vital info
-		* に - as above
+		Copula
+			* です
+		Transitive
+			* する
+			* 行く
+			* 来る
+			* 見る
+			* 読む
+			* 話す
+			* 勉強する　－　kanji not yet taught?
+			* 食べる
+			* 飲む
+		Intransitive
+			* 立つ
+			* すわる
+			* ねる
+	- Particles & Their Usage
 		* を
+		* か
+		* の
 		* は - cover the complexity sort of, but mainly drill in the primary usage for this level
+		* が - very limited usage
 	- Grammar
 		- ます form; plain form, verb stems (coverage)
-	- Nouns (With Kanji)
-		* 学校
-		* 学生、先生、一年生。。。
-		* 日本語
-		* 日曜日、月曜日、火曜日。。。
-		* 人
+	- Nouns
+		Places:
+			* 学校
+			* としょかん
+			* きっさてん
+			* 大学
+			*　小学校
+			* 中学校
+			*　高校
+			* 国
+		Languages:
+			* 日本語
+			* えいご
+		Electronics:
+			* テレビ
+			* 電話
+		Countries:
+			* 日本
+			* アメリカ
+			* イギリス
+			* スペイン
+			* フランス
+			* ちゅうごく
+			* かんこく
+			* オーストラリア
+		Days of the Week:
+			* 日曜日
+			* 月曜日
+			* 火曜日
+			* 水曜日
+			* 木曜日
+			* 金曜日
+			* 土曜日
+		People:
+			* 人 
+			* 日本人
+			* 学生
+			* 先生
+			* 一年生
+			* 二年生
+			* 三年生
+			* 四年生
+			* 小学生
+			* 中学生
+			* 高校生
+			* ともだち
+		Food:
+			* さかな (cross-reference: CATEGORY: ANIMALS)
+			* にく
+			* すし
+		Animals:
+			* ねこ
+			* いぬ
+			* とり
+		Abstract:
+			* 時間
+			* 名前
+		Uncategorized:
+			* えいが
+	- Addons
+		* ～人
+		* ～語
 	- Expressions & Adv 
 		* 一人で
+		*　後で？
 	- Question Words
 		* だれ
 		* 何
-
-A list of beginner kanji is drafted elsewhere. These should be taught as soon as possible. 

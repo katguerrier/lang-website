@@ -39,4 +39,4 @@ def sentencegen(key):
 # - factor skillval, and weight adjustment algorithm
 
 print 'Try:'
-print '>>> sentencegen(\'<sentence_a1>\')'
+print '>>> print sentencegen(\'<sentence_a1>\')'

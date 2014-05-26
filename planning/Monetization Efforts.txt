@@ -19,7 +19,7 @@ Monetization
 	What incentives can we offer with this?
 
 * Microtransactions
-	The webstie is not fully "gamified", but microtransactions MAY work in its framework at some point. How can we implement these in an enticing way without breaking the "game", and collapsing reputation?
+	The website is not fully "gamified", but microtransactions MAY work in its framework at some point. How can we implement these in an enticing way without breaking the "game", and collapsing reputation?
 
 * Donation
 	What incentives can we give? Can we 'sell our hours worked on the site towards a certain goal'?

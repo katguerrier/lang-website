@@ -11,9 +11,10 @@ a {
 }
 
 .header {
-	background-color: green;
 	float: left;
 	min-width: 80%;
+	border: 2px dashed black;
+	padding: 15px;
 }
 
 #logoBox {
@@ -34,23 +35,27 @@ a {
 	height: 25px;
 	width: 150px;
 	text-align: center;
-	background-color: #EAD165;
+	border: 2px solid black;
 	padding: 5px;
+	background-color: #EAD165;
 }
 
 .content {
 	margin: 20px 20px 20px 20px;
 	float: left;
-	background-color: black;
+	border: 2px dashed black;
+	padding: 25px;
 }
 
 .content div {
-	padding: 5px 5px 5px 5px;
+	padding: 5px;
 }
 
 #example {
 	background-color: #EAD165;
 	color: #93194A;
+	margin-bottom: 5px;
+	font-style: italic;
 }
 
 #input {
@@ -58,8 +63,9 @@ a {
 }
 
 .sidebar {
-	background-color: black;
 	float: right;
 	width: 200px;
 	height: 500px;
+	border: 2px dashed black;
+	padding: 5px;
 }

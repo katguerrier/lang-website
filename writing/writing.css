@@ -64,6 +64,8 @@ a {
 
 .sidebar {
 	float: right;
+	background-color: #ddd;
+	color: #555;
 	width: 200px;
 	height: 500px;
 	border: 2px dashed black;

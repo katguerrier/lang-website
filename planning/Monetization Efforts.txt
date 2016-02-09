@@ -1,5 +1,8 @@
 Monetization
 
+* Content
+	Reading/listening practice (books, podcasts, etc.) that you can publish & advertise for.
+
 * Affiliate Marketing - Amazon, etc;
 	Show users interesting content appropriate to their skill level, and take a cut of sales.
 

@@ -1,7 +1,19 @@
 body {
 	background-image: url(gridBG.jpg);
+	font-family: sans-serif;
 }
 
+a {
+	color: white;
+}
 .button {
-	
+	width: 20%;
+	background-color: blue;
+	display: inline-block;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+.sub_buton {
+	height: 50px;
 }

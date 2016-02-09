@@ -1,0 +1,39 @@
+<!-- This file deals with speaking exercises; there will be a few different kinds.
+  ** 1: Recite the prompt sentence.
+  ** 2: Repeat after an audio file.
+  ** 3: Spoken response to a prompt (handle like handwriting). 
+  ** 4: ...
+-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<link href="res/style.css" type="text/css" rel="stylesheet" />
+		<script src="res/jquery.js"></script>
+	</head>
+	<body>
+		<div id="logoBox"><img src="logoStandin.png" /></div>
+		<nav id="navBar" role="navigation">
+			<div class="button"><a href="index.html">Home</a></div>
+			<div class="button"><a href="lessons/index.html">Lessons</a></div>
+			<div class="button"><a href="practice/index.html">Practice</a></div>
+			<div class="button"><a href="community/index.html">Community</a></div>
+		</nav>
+		<nav id="crumbTrail">
+			<a href="index.html">Home</a> > <a href="practice/index.html">Practice</a> > <a href="practice/speaking.html">Speaking</a> > <a href="practice/lesson1.html">Lesson 1</a>
+		</nav>
+
+		<div id="directions">Click the microphone icon and recite the prompt sentence.</div>
+		<div id="micDisplay"><img src="res/microphone.png" /></div>
+		<div id="prompt"><em>すごく疲れて、腹減ったよ</em></div>
+		<div id="userOutput">
+			<p>よくできました！</p>
+			<p>This is what we heard: <em>すごく疲れた、腹減った</em></p>
+			<p>Very close!</p> <!-- Popup that highlights errors & gives correction. -->
+			<p>がんばってください～！</p>
+		</div> 
+		<!-- Transcribe what the user is saying, best-guess. Don't show till afterwards, to eliminate nervousness? -->
+		<!-- Popups for critique? Practice suggestions? Etc... -->
+	</body>
+</html>

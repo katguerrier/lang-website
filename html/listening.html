@@ -1,0 +1,35 @@
+<!-- I don't really know how to effectively use the whole page for this one... -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<link href="res/style.css" type="text/css" rel="stylesheet" />
+		<script src="res/jquery.js"></script>
+	</head>
+	<body>
+		<div id="logoBox">
+			<img src="logoStandin.png" />
+		</div>
+		<nav id="navBar" role="navigation">
+			<div class="button"><a href="index.html">Home</a></div>
+			<div class="button"><a href="lessons/index.html">Lessons</a></div>
+			<div class="button"><a href="practice/index.html">Practice</a></div>
+			<div class="button"><a href="community/index.html">Community</a></div>
+		</nav>
+		<nav id="crumbTrail">
+			<a href="index.html">Home</a> > <a href="practice/index.html">Practice</a> > <a href="practice/listening/index.html">Listening</a> > <a href="practice/listening/lesson1.html">Lesson 1</a>
+		</nav>
+		<!-- Two possible listening exercise formats right now: transcription, and Q&A. -->
+		<div id="directions">Listen to the following conversation and answer the questions that follow. You will hear the conversation three times.</div>
+		<div id="listenEmbed"><img src="play.png" /></div>
+		<div id="questionSection">
+			<span class="question">1) 伏せにかラマ身で七期？</span>
+			<div id="answerBlock">
+				<input type="radio" name="question1" value="01" />01<br />
+				<input type="radio" name="question1" value="02" />02<br />
+				<input type="radio" name="question1" value="03" />03<br />
+				<input type="radio" name="question1" value="04" />04<br />
+			</div>
+		</div>
+	</body>
+</html>

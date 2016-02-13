@@ -50,7 +50,7 @@ function generateQuestion(question, answers, correctAnswer) {
 	this.correctAnswer = correctAnswer;
 	var number = 0;
 
-	var questionTemplate = "<form name=\"question\"" + number.toString() + "\"> <p>" + question + "</p>";
+	var questionTemplate = number+1 + ". <form name=\"question\"" + number.toString() + "\"> <span class=\"question\">" + question + "</p>";
 	var answerTemplate = "";
  
 	for (var i=0 in answers) {
@@ -62,4 +62,4 @@ function generateQuestion(question, answers, correctAnswer) {
 	return returnVal;
 };
 
-$("#readingQuestions").append(generateQuestion(exQuest1, exAns1, exCorrAns));
+$(".questionHolder").append(generateQuestion(exQuest1, exAns1, exCorrAns));

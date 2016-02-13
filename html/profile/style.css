@@ -3,8 +3,7 @@
 body {
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
-	/*background-image: url(gridBG.jpg);*/
-	background-color: #E5AF69;
+	background-image: url(gridBG.jpg);
 	font-family: sans-serif;
 }
 
@@ -22,7 +21,7 @@ a {
 
 .reading
 {
-	background-color: #FFD6A0;
+	background-color: #eee;
 	color: black;
 	border-radius: 5px;
 	padding: 10px 10px 10px 10px;
@@ -30,7 +29,7 @@ a {
 
 .questionHolder
 {
-	background-color: #FFD6A0;
+	background-color: white;
 	color: black;
 	border-radius: 5px;
 	padding: 10px 10px 10px 10px;
@@ -39,9 +38,9 @@ a {
 
 .content
 {
-	background-color: #2B865D;
+	background-color: blue;
 	border-radius: 15px;
-	box-shadow: 5px 5px 5px #7A4706;
+	box-shadow: 5px 5px 5px #000055;
 	color: white;
 	padding: 30px 30px 30px 30px;
 	margin: 10px 10px 10px 10px;
@@ -49,7 +48,7 @@ a {
 
 .button {
 	width: 19%;
-	background-color: #2B865D;
+	background-color: blue;
 	display: inline-block;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -63,7 +62,7 @@ a {
 	left: 0px;
 	width: 100%;
 	position: absolute;
-	background-color: #2B865D;
+	background-color: blue;
 	padding-bottom: 10px;
 	padding-left: 5px;
 	padding-top: 0px;
@@ -71,17 +70,4 @@ a {
 
 .sub_button a {
 	display: block;
-}
-
-.calendar {
-	background-color: white;
-	color: black;
-	box-shadow: 2px 2px 2px black;
-}
-
-.calendar .day {
-	width: 13%;
-	height: 20%;
-	background-color: white;
-	border: 5px solid black;
 }

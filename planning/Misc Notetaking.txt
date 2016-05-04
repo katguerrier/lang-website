@@ -13,7 +13,7 @@ Launch Languages:
 Site Sections:
 	- Lessons
 	- Practice
-	- Profile
+		- Profile
 		- Calendar (for setting schedules; dynamic based on difficulty & rate of acquisition)
 		- Settings (time zone, mic + webcam, communication preferences)
 		- Mastery Indicator (like KhanAcademy)
@@ -65,7 +65,7 @@ Game Section:
 Grammar Essentials
 	Assertive "X is Y"
 		X は　Y です
-
+want1
 	Volitional "I want X (...)"
 		X が　ほしい
 		Prereq: Xが好き style (X ga ADJ)

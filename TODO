@@ -1,6 +1,10 @@
 TODO: 
-- Find more JLPT sources.
-- Continue breaking JLPT level knowledge into "macrounits" and breaking those into subunits for teaching.
+
+Lesson Design
+	Break JLPT level knowledge into "macrounits"; break those into subunits for teaching.
+
+Website Design
+	Implement Bootstrap-based design.
 
 [Scraps]
 	- Limit Break: Like a Khan Academy "Mastery Challenge"; in order to be able to level up further, users are asked to go back and complete a test on all the material of a given unit (useful if they're leveling particular subskills and we need a way to test their overall ability)

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html> 
+	<head> 
+		{{>head}}
+	</head> 
+	<body> 
+		{{>navbar}}
+		<div class="well container-fluid" id="content">
+			<script src="js/audioControl.js"></script>
+			<div id="questions" class="questionHolder col-md-6">
+				<audio id="player" src="audio/valse.mp3" controls></audio><br />
+			</div>
+			<div id="controls" class="col-md-6">
+				<h4>Controls</h4>
+				<button class="btn-warning audio-control" id="play">Play</button>
+				<button class="btn-warning audio-control" id="pause">Pause</button><br />
+				<button class="btn-warning audio-control" id="volUp">Vol+</button>
+				<button class="btn-warning audio-control" id="volDown">Vol-</button><br />
+				<button class="btn-warning audio-control" id="fast">Faster</button>
+				<button class="btn-warning audio-control" id="slow">Slower</button><br />
+				<button class="btn-warning audio-control" id="forward">Fast-forward</button>
+				<button class="btn-warning audio-control" id="rewind">Rewind</button><br />
+				<button class="btn-warning audio-control" id="replay">Replay</button>
+				<button class="btn-danger audio-control" id="error">!</button>
+			</div>
+		</div>
+		<script src="js/questions.js"></script>
+	</body>
+</html>

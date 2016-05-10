@@ -1,0 +1,73 @@
+*, *:before, *:after { box-sizing: border-box; }
+
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	background-image: url(gridBG.jpg);
+	font-family: sans-serif;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+#crumbTrail a
+{
+	color: black;
+	font-size: 0.8em;
+	padding: 5px 5px 5px 5px;
+}
+
+.reading
+{
+	background-color: #eee;
+	color: black;
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px;
+}
+
+.questionHolder
+{
+	background-color: white;
+	color: black;
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+}
+
+.content
+{
+	background-color: blue;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #000055;
+	color: white;
+	padding: 30px 30px 30px 30px;
+	margin: 10px 10px 10px 10px;
+}
+
+.button {
+	width: 19%;
+	background-color: blue;
+	display: inline-block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	position: relative;
+}
+
+.sub_button {
+	display: none;
+	top: 38px;
+	left: 0px;
+	width: 100%;
+	position: absolute;
+	background-color: blue;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-top: 0px;
+}
+
+.sub_button a {
+	display: block;
+}

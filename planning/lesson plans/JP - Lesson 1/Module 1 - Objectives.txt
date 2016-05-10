@@ -1,0 +1,17 @@
+Module 1
+
+Objectives: By the completion of this module, the learner should be able to:
+	- Assert properties of nouns using the X は [noun/adj.] です sentence pattern.
+	- Recount basic actions in the present tense: X は [verb]
+	- Relate nouns using transitive verbs: X は Y を [verb]
+	- Describe nouns using both adjectives and other nouns as modifiers.
+	- Ask simple questions with the か particle and question words (だれ、どれ、どの、どこ), using the が particle after question words.
+	- Ask and answer yes/no questions with the use of はい/いいえ
+	- Specify nouns and locations using the こ・そ・あ series (この・その・あの、　これ・それ・あれ、　ここ・そこ・あそこ) and relate these to the ど series of question words.
+	- Ask if something is one of two things (Aですか、Bですか)
+	- Assert the existence or possession of a noun with verbs います and あります, and the X は Y が あります sentence pattern.
+	- Assert properties of nouns using な adjectives 好き、きらい、上手、下手 with the が particle (XはYが[な-adj.]です)
+	- Specify time and location information in basic sentences with the に and で particles
+	- Describe relative locations with words 中、後ろ、前、上、下、 間、近く, etc.
+	- Ask for and report the current time, and count to 1,000,000, using the kanji 一ー十、百、千、万
+	- Ask for and describe costs of items

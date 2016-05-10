@@ -40,9 +40,9 @@ function genPhrase(phrase) {
 };
 */
 
-var exQuest1 = "スーさんはどんな着物をもらったか。";
-var exAns1 = ["古くて、綺麗な着物をもらった", "新しい着物をもらった", "古くて、綺麗じゃない着物をもらった", "ずたずた着物をもらった"];
-var exCorrAns = ["古くて、綺麗な着物をもらった"];
+var exQuest1 = "質問一か。";
+var exAns1 = ["答え一。", "答え二。", "答え三。", "答え四。"];
+var exCorrAns = ["答え四。"];
 
 function generateQuestion(question, answers, correctAnswer) {
 	this.question = question;

@@ -26,4 +26,36 @@ for (my $x = 0; $x < $max_x; $x++) {
 	}
 }
 
-printf "%f,%f\n", $sum_x/$n_black, $sum_y/$n_black;
+my $cog_x = $sum_x/$n_black; # COG x coord
+my $cog_y = $sum_y/$n_black; # COG y coord
+my $quadrant = 0;
+
+printf "File: %s\n", $ARGV[0];
+printf "COG: %f,%f\n", $sum_x/$n_black, $sum_y/$n_black;
+
+# quadrant detection
+
+# if x <= max_x / 2 then it's in the left half
+# if y <= max_y / 2 then it's in the top half
+
+if ($cog_x > $max_x/2) { # right half
+	if ($cog_y <= $max_y/2) { # top half 
+		$quadrant = 1;		
+	}
+	else {
+		$quadrant = 4;
+	}
+}
+
+if ($cog_x <= $max_x/2) { # left half
+	if ($cog_y <= $max_y/2) {
+		$quadrant = 2;
+	}
+	else {
+		$quadrant = 3;
+	}
+}
+
+
+printf "Quadrant: %i\n", $quadrant;
+printf "---";

@@ -55,7 +55,7 @@ printf "COG: %.2f,%.2f\n", $cog_x, $cog_y;
 # quadrant detection
 my $len_x = $max_fd_x - $min_fd_x;
 my $len_y = $max_fd_y - $min_fd_y;
-printf "Length of X, length of Y: %.2f, %.2f", $len_x, $len_y;
+printf "Length of X, length of Y: %.2f, %.2f\n", $len_x, $len_y;
 
 if ($cog_x > $len_x/2) { # right half
 	if ($cog_y <= $len_y/2) { # top half 

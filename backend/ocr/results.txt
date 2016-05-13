@@ -13,4 +13,13 @@ Quadrant: 1
 ---File: ./hwsamples/u.png
 COG: 40.450800,23.138236
 Quadrant: 2
+---File: ./hwsamples/a.png
+COG: 0.00,0.00
+Quadrant: 2
+Coords of bbox: (24.00, 30.00); (24.00, 30.00); (24.00, 30.00); (24.00, 30.00)
+---
+File: ./hwsamples/e.png
+COG: 0.00,0.00
+Quadrant: 2
+Coords of bbox: (43.00, 14.00); (43.00, 14.00); (43.00, 14.00); (43.00, 14.00)
 ---

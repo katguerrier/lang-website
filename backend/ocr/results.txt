@@ -1,25 +1,10 @@
 File: ./hwsamples/a.png
-COG: 40.423015,22.044106
-Quadrant: 2
----File: ./hwsamples/e.png
-COG: 39.091670,21.901011
-Quadrant: 2
----File: ./hwsamples/i.png
-COG: 41.396488,21.541709
-Quadrant: 1
----File: ./hwsamples/o.png
-COG: 41.674419,21.111943
-Quadrant: 1
----File: ./hwsamples/u.png
-COG: 40.450800,23.138236
-Quadrant: 2
----File: ./hwsamples/a.png
 COG: 0.00,0.00
-Quadrant: 2
+Length of X, length of Y: 0.00, 0.00Quadrant: 2
 Coords of bbox: (24.00, 30.00); (24.00, 30.00); (24.00, 30.00); (24.00, 30.00)
 ---
 File: ./hwsamples/e.png
 COG: 0.00,0.00
-Quadrant: 2
+Length of X, length of Y: 0.00, 0.00Quadrant: 2
 Coords of bbox: (43.00, 14.00); (43.00, 14.00); (43.00, 14.00); (43.00, 14.00)
 ---

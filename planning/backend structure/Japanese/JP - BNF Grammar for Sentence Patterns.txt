@@ -1,9 +1,53 @@
-<sentence_a1> ::= <subject> <link> <copula>"。"
+; currently verbs only handled for present-tense
+; sentence_d* = descriptive; a* = active; e* = existential
+;------------------------------------------------------------------------------------------------
+; basic descriptive sentence format
+<sentence_d1> ::= <subject> <link> <copula> <end>
 <subject> ::= <noun> "は" | <pronoun> "は" | ""
+<noun> ::= <noun_inan> | <noun_an> ; inanimate & animate
 <link> ::= <noun> | <adjective>
+<adjective> ::= <adjective_i> | <adjective_na> 
 <copula> ::= "です"
-
-<sentence_a2> ::= <subject> <object> <verb-trans> "。"
+<end> ::= "。" | "か" ; declarative & interrogative endings
+;------------------------------------------------------------------------------------------------
+; basic active sentences
+<sentence_a1> ::= <subject> <object> <verb-trans> <end> ; active, trans.
 <object> ::= <noun> "を" | <pronoun> "を" | ""
+<verb-trans> ::= <verb-trans_pol> | <verb-trans_plain>
+;------------------------------------------------------------------------------------------------
+<sentence_a2> ::= <subject> <verb-intrans> <end> ; active, intrans.
+<verb-intrans> ::= <verb-intrans_pol> | <verb-intrans_plain>
+;------------------------------------------------------------------------------------------------
+; active sentences with added time or location information
+<sentence_a3> ::= <subject> <time_exp> <object> <verb-trans> <end> ; basic + time, trans.
+<time_exp> ::= <adv_time> | <adv_freq> ; time = kyou, freq = mainichi, etc etc.
 
-<sentence_a3> ::= <subject> <verb-intrans> "。"
+<sentence_a4> ::= <subject> <time_exp> <verb-intrans> <end> ; basic + time, intrans.
+
+<sentence_a5> ::= <subject> <time_exp> <noun_loc> <object> <verb-trans> <end> ; location with time, trans.
+
+<sentence_a6> ::= <subject> <time_exp> <noun_loc> <verb-intrans> <end> ; location with time, intrans.
+
+<sentence_a7> ::= <subject> <noun_loc> "で" <object> <verb-trans> <end> ; location w/o time, trans.
+
+<sentence_a8> ::= <subject> <noun_loc> "で" <verb-intrans> <end> ; location w/o time, intrans.
+;------------------------------------------------------------------------------------------------
+; existential sentences (i.e. ones taking ga iru or aru)
+<sentence_e1> ::= <e_subj_inan> <aru> <end> ; existential subject, inanimate
+<aru> ::= "ある" | "あります" | "ない" | "ありません" ; aru, arimasu, nai, arimasen
+<e_subj_inan> ::= <noun_inan> "が" ; e_subj uses ga instead of wa
+
+<sentence_e2> ::= <e_subj_an> <iru> <end> ; existential subject, animate
+<iru> ::= "いる" | "います" | "いない" | "いません" ; iru, imasu, inai, imasen
+<e_subj_an> ::= <noun_an> "が"
+
+<sentence_e3> ::= <e_subj_inan> <noun_loc> "に" <aru> <end>
+<sentence_e4> ::= <e_subj_an> <noun_loc> "に" <iru> <end>
+;------------------------------------------------------------------------------------------------
+; opinion-based sentences (to omou)
+<sentence_o1> ::= <self_referent> "は" <tp_referent> "が" <vb_referent> <omou>
+<self_referent> ::= "私" | "ぼく" | "あたし" | "わたくし" | ""
+<tp_referent> ::= <name> | ""　; third-person/party referent
+<vb_referent> ::= <noun> | <adjective_i> | <adjective_na> "だ" | <verb_intrans-plain> | <object> <verb-trans_plain> 
+<omou> ::= "と思う" | "と思います"
+;------------------------------------------------------------------------------------------------

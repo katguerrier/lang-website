@@ -1,18 +1,34 @@
 TODO: 
 
+/
+	Revamp this TODO document to put 'old stuff' in its proper place & remove it if no longer necessary.
+	Write a full-fledged README.
+
 /planning
 	Break JLPT level knowledge into "macrounits"; break those into subunits for teaching.
 
 /html
-	HTML templates for navbar, head, etc.
 	Mockups for all pages covered by the navbar
-	Fix directory structure. -- DONE!
+		Lessons - 0/3
+		Practice - 4/5
+		Community - 0/6
+		Profile - 0/4
+		Offers - 0/5
+	Change the background of the "offers" dropdown to be yellow by default. 
+	Write a prompt generator for the writing section.
+
+	COMPLETED - 
+		- Fix directory structure. 
+		- HTML templates for navbar, head, etc.
 
 /backend
 	OCR module - implement the basic algorithm (OCR, stroke tracking -> intersection points, distance calculation)
+		- Normalize & encircle characters
+		- Locate COG & associate it with the quadrant it is in
+		- Figure out stroke tracking
+		- Calculate distances of intersection points from COG.
 
-
-HTML pages:
+[reference: HTML pages:]
 	Lesson
 		Select page
 		Sample lesson page/pages (Lesson 1)
@@ -21,8 +37,6 @@ HTML pages:
 		Drills
 		Reading
 		Writing
-			Handwriting
-			Journal
 		Listening
 	Community
 		Friends
@@ -31,7 +45,6 @@ HTML pages:
 		Penpals
 		Webchat
 		Voice chat
-		Random chat partner
 	Profile
 		Progress
 		Study Schedule - calendar & dynamic scheduling
@@ -48,6 +61,7 @@ HTML pages:
 
 [Scraps]
 	- Limit Break: Like a Khan Academy "Mastery Challenge"; in order to be able to level up further, users are asked to go back and complete a test on all the material of a given unit (useful if they're leveling particular subskills and we need a way to test their overall ability)
+	- The site should be usable to someone who does not have an account, although without saved progress. This makes it so that beta testers don't have as many hoops to go through in order to test out the site & get a feel for how it works for them.
 
 
 [Old List]

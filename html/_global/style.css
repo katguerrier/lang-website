@@ -10,11 +10,15 @@
 @w-lime:				#00FF98; // bright green
 */
 
+/***************************************************************/
+
+/* Global */
+
 body {
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
 	background-color: #D1BEA3;
-	font-family: sans-serif;
+	font-family: Helvetica, sans-serif;
 	color: #43362B;
 }
 
@@ -22,46 +26,52 @@ a {
 	color: #249E4D;
 }
 
-#content
-{
-	margin: 10px 10px 10px 10px;
-	padding: 30px 30px 30px 30px;
-	
-}
-
-.dropdown-menu a {
-	font-variant: small-caps;
-}
-
-
-/* Reading Section */
-.reading
-{
-	background-color: #F7C53F;
-	border-radius: 5px;
-	padding: 10px 10px 10px 10px;
-}
-
-.questionHolder
-{
-	background-color: #0E85B2;
-	border-radius: 5px;
-	padding: 10px 10px 10px 10px;
-	margin-top: 10px;
-	color: #FDF5DC;
+button {
+	border: none;
+	border-radius: 5%;
+	color: #000;
+	margin: 5px;
+	padding: 5px;
 }
 
 .text-jp {
 	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 
+#content
+{
+	margin: 10px;
+	padding: 30px;
+	
+}
+
+/* Reading Section */
+
+.reading
+{
+	background-color: #F7C53F;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.questionHolder
+{
+	background-color: #0E85B2;
+	border-radius: 5px;
+	color: #FDF5DC;
+	margin-top: 10px;
+	padding: 10px;
+}
+
 /* Listening Section */
 
 .audio-control {
-	border-radius: 5%;
-	border: none;
-	padding: 5px;
 	width: 25%;
-	margin: 5px;
 	color: black;
+}
+
+
+/* Writing Section */
+.wr-button {
+	display: block;
 }

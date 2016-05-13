@@ -6,7 +6,30 @@
 	<body>
 		{{>navbar}}
 		<div class="well container-fluid" id="content">
-			<p>Hello, world!</p>
+			<div class="col-md-2" id="wr-style">
+				<button class="btn-info wr-button" id="wr-bold"><i class="fa fa-bold"></i></button>
+				<button class="btn-info wr-button" id="wr-italic"><i class="fa fa-italic"></i></button>
+				<button class="btn-info wr-button" id="wr-underline"><i class="fa fa-underline"></i></button>
+				<button class="btn-info wr-button" id="wr-strikethrough"><i class="fa fa-strikethrough"></i></button>
+
+				Or switch to a <a href="#">handwritten</a> entry.
+			</div>
+			<div class="col-md-6" id="wr-text">
+				<div class="input-group">
+					<input type="text" class="form-control" placeholder="Title">
+					<textarea rows="8" class="form-control" placeholder="[dynamically generated prompts]"></textarea>
+					<button class="btn-default">Preview</button>
+					<button class="btn-info">Post</button>
+				</div>
+			</div>
+			<div class="col-md-4" id="wr-options">
+				<div class="input-group">
+					<input type="checkbox" id="wr-ck-private" value="private">
+					<label for="wr-ck-private"> Make this entry private</label><br />
+					<input type="checkbox" id="wr-ck-corrections" value="corrections">
+					<label for="wr-ck-corrections"> Invite others to correct this entry</label>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

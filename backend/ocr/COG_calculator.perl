@@ -28,6 +28,7 @@ for (my $x = 0; $x < $max_x; $x++) {
 			$sum_y += $y;
 			$n_black += 1;
 
+			# find the leftmost, rightmost, topmost, and bottommost points in the character
 			if ($x > $max_fd_x) {
 				$max_fd_x = $x;
 			}
@@ -75,7 +76,16 @@ if ($cog_x <= $len_x/2) { # left half
 	}
 }
 
-
 printf "Quadrant: %i\n", $quadrant;
 printf "Coords of bbox: (%.2f, %.2f); (%.2f, %.2f); (%.2f, %.2f); (%.2f, %.2f)\n" , $min_fd_x, $min_fd_y, $max_fd_x, $min_fd_y, $min_fd_x, $max_fd_y, $max_fd_x, $max_fd_y;
 printf "---\n";
+
+# test section
+my $img_copy = $Image->Clone();
+$img_copy->Draw(primitive=>'line', 
+		stroke=>'red', 
+		strokewidth=>10, 
+		points=>$min_fd_x, $min_fd_y, $max_fd_x, $min_fd_y);
+
+
+$img_copy->Write('test_out.png');

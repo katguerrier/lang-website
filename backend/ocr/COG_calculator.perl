@@ -6,7 +6,7 @@ use Data::Dumper;
 
 my $Image = Image::Magick->new;
 my $x = $Image->Read($ARGV[0]);
-warn "$x" if "$x";
+print $ARGV[0];
 
 my $max_x = $Image->Get('columns');
 my $max_y = $Image->Get('rows');

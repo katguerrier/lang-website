@@ -2,5 +2,6 @@
 
 for file in ./hwsamples/*
 do
-	perl COG_calculator.perl "$file" >> results.txt
+	FILENAME = python split.py
+	perl COG_calculator.perl "$file" "$FILENAME"
 done

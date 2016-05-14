@@ -6,7 +6,6 @@ use Data::Dumper;
 
 my $Image = Image::Magick->new;
 my $x = $Image->Read($ARGV[0]);
-print $ARGV[0];
 
 my $max_x = $Image->Get('columns');
 my $max_y = $Image->Get('rows');
@@ -51,7 +50,7 @@ my $cog_y = ($sum_y/$n_black) - $min_fd_y; # COG y coord
 my $quadrant = 0;
 
 printf "File: %s\n", $ARGV[0];
-printf "COG: %.2f,%.2f\n", $cog_x, $cog_y;
+printf "COG: %.2f, %.2f\n", $cog_x, $cog_y;
 
 # quadrant detection
 my $len_x = $max_fd_x - $min_fd_x;
@@ -82,10 +81,7 @@ printf "---\n";
 
 # test section
 my $img_copy = $Image->Clone();
-$img_copy->Draw(primitive=>'line', 
-		stroke=>'red', 
-		strokewidth=>10, 
-		points=>$min_fd_x, $min_fd_y, $max_fd_x, $min_fd_y);
+$img_copy -> Crop(width=>$len_x, height=>$len_y, x=>$min_fd_x, y=>$min_fd_y);
 
 
-$img_copy->Write('test_out.png');
+$img_copy->Write($ARGV[0]);

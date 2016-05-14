@@ -1,0 +1,24 @@
+File: samples/sample_out.png
+COG: 48.19, 52.36
+Length of X, length of Y: 100.00, 103.00
+Quadrant: 3
+Coords of bbox: (1.00, 1.00); (101.00, 1.00); (1.00, 104.00); (101.00, 104.00)
+---
+File: samples/sample_ne_out.png
+COG: 53.54, 56.41
+Length of X, length of Y: 107.00, 106.00
+Quadrant: 4
+Coords of bbox: (33.00, 24.00); (140.00, 24.00); (33.00, 130.00); (140.00, 130.00)
+---
+File: samples/sample_ne_out_out.png
+COG: 52.51, 55.30
+Length of X, length of Y: 105.00, 104.00
+Quadrant: 4
+Coords of bbox: (1.00, 1.00); (106.00, 1.00); (1.00, 105.00); (106.00, 105.00)
+---
+File: samples/sample_out_out.png
+COG: 35.93, 38.27
+Length of X, length of Y: 66.00, 74.00
+Quadrant: 4
+Coords of bbox: (1.00, 1.00); (67.00, 1.00); (1.00, 75.00); (67.00, 75.00)
+---

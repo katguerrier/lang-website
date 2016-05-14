@@ -82,6 +82,7 @@ printf "---\n";
 # test section
 my $img_copy = $Image->Clone();
 $img_copy -> Crop(width=>$len_x, height=>$len_y, x=>$min_fd_x, y=>$min_fd_y);
+$img_copy -> Draw(primitive=>'point', fill=>'red', points=>$cog_x, $cog_y);
 
 
 $img_copy->Write($ARGV[0]);

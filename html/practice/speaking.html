@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html> 
+	<head> 
+		{{>head}}
+	</head> 
+	<body> 
+		{{>navbar}}
+		<div class="well container-fluid" id="content">
+			<h1 id="langDisp">Lang = ja</h1>
+			<div class="col-md-4">
+				<button class="btn-info btn-lg" id="speechControl">Start Recognition</button><br />
+				<button class="btn-info btn-lg" id="speechEnd">End Recognition</button><br />
+				<button class="btn-danger btn-xs" id="fr">French</button>
+				<button class="btn-danger btn-xs" id="ja">Japanese</button>
+				<button class="btn-danger btn-xs" id="en-US">English</button>
+				<button class="btn-danger btn-xs" id="es">Spanish</button>
+				<button class="btn-danger btn-xs" id="it">Italian</button>
+			</div>
+			<div class="col-md-8" id="textDisp">Your speech will appear here.<br /></div>
+		</div>
+	</body>
+	<script src="js/speech.js"></script>
+</html>

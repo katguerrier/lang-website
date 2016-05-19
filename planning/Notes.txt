@@ -1,3 +1,21 @@
+[04:33:05] <Wedjat> but I can actually use the grammars
+[04:33:07] <Wedjat> and match to those 
+[04:33:10] <Wedjat> when I have prompts
+[04:33:15] <Wedjat> ~eyes light~ 
+[04:33:26] <Wedjat> They're taken in BNF too 
+[04:33:37] <Wedjat> so I can just use the same one that's used to genreate the sentence for that and ... 
+[04:33:38] <Wedjat> yeah
+[04:33:47] <Wedjat> which... means I can do generalized ones?
+[04:33:57] <Wedjat> and have the user correct individual nouns/verbs in that?
+[04:34:11] <Wedjat> which I can use to further train my data
+[04:34:28] <Wedjat> ... and I can use different networks to respond to different levels of competence - users
+[04:34:41] <Wedjat> because a beginner user will feed me data according to their capcaity
+[04:34:59] <Wedjat> and then i can compare a user's speech and get an idea of where their accent puts them in terms of phonological capacity
+[04:35:04] <Wedjat> and assign them a phonological 'level'
+[04:35:09] <Wedjat> and assign tasks to them to improve it
+[04:35:11] <Wedjat> ~exhales~
+[04:35:12] <Wedjat> wow.
+-------------------
 Launch Languages:
 	- French
 	- German

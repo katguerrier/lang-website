@@ -4,7 +4,7 @@
 ; basic descriptive sentence format
 <sentence_d1> ::= <subject> <link> <copula> <end>
 <subject> ::= <noun> "は" | <pronoun> "は" | ""
-<noun> ::= <noun_inan> | <noun_an> ; inanimate & animate
+<noun> ::= <noun_inanimate> | <noun_animate> ; inanimate & animate
 <link> ::= <noun> | <adjective>
 <adjective> ::= <adjective_i> | <adjective_na> 
 <copula> ::= "です"
@@ -33,16 +33,16 @@
 <sentence_a8> ::= <subject> <noun_loc> "で" <verb-intrans> <end> ; location w/o time, intrans.
 ;------------------------------------------------------------------------------------------------
 ; existential sentences (i.e. ones taking ga iru or aru)
-<sentence_e1> ::= <e_subj_inan> <aru> <end> ; existential subject, inanimate
+<sentence_e1> ::= <e_subj_inanimate> <aru> <end> ; existential subject, inanimate
 <aru> ::= "ある" | "あります" | "ない" | "ありません" ; aru, arimasu, nai, arimasen
-<e_subj_inan> ::= <noun_inan> "が" ; e_subj uses ga instead of wa
+<e_subj_inanimate> ::= <noun_inanimate> "が" ; e_subj uses ga instead of wa
 
-<sentence_e2> ::= <e_subj_an> <iru> <end> ; existential subject, animate
+<sentence_e2> ::= <e_subj_animate> <iru> <end> ; existential subject, animate
 <iru> ::= "いる" | "います" | "いない" | "いません" ; iru, imasu, inai, imasen
-<e_subj_an> ::= <noun_an> "が"
+<e_subj_animate> ::= <noun_animate> "が"
 
-<sentence_e3> ::= <e_subj_inan> <noun_loc> "に" <aru> <end>
-<sentence_e4> ::= <e_subj_an> <noun_loc> "に" <iru> <end>
+<sentence_e3> ::= <e_subj_inanimate> <noun_loc> "に" <aru> <end>
+<sentence_e4> ::= <e_subj_animate> <noun_loc> "に" <iru> <end>
 ;------------------------------------------------------------------------------------------------
 ; opinion-based sentences (to omou)
 <sentence_o1> ::= <self_referent> "は" <tp_referent> "が" <vb_referent> <omou>

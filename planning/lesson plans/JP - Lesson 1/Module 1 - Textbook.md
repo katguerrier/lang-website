@@ -162,4 +162,40 @@ There are 46 hiragana in use today, along with a few that only hold historical i
 
 Each hiragana has a *stroke order*. The stroke order is the way in which you physically write the character. When you do handwriting practice on [LW], the stroke order will be given for you to copy from.
 
-The 46 base hiragana don't represent every sound in Japanese. In order to get those sounds, we use two tools: *dakuten/handakuten* and *youon*. Dakuten are little marks like this: ゛ that represent that a consonant is **voiced**. A voiced consonant is a version of another consonant made with an extra vibration of your vocal cords, like *k* and *g*, or *s* and *z*. [SIDEBAR: ]
+The 46 base hiragana don't represent every sound in Japanese. In order to get those sounds, we use two tools: *dakuten/handakuten* and *youon*. **Dakuten** are little marks like this: ゛ that represent that a consonant is **voiced**. A voiced consonant is a version of another consonant made with an extra vibration of your vocal cords, like *k* and *g*, or *s* and *z*. Adding dakuten to the hiragana for *ka*, for instance, makes *ga*. **Handakuten** are similar to dakuten, but are used specifically with the hiragana for sounds beginning with *h-*: *ha*, *hi*, *hu*, *he*, and *ho*. Adding dakuten to these sounds yields *ba*, etc.; adding handakuten to them instead yields *pa*, *pi*, *pu*, *pe* and *po*. Not all hiragana can "take" dakuten, but only those for which it makes phonological sense. Pictured below is a table with the sounds made by adding dakuten and handakuten to other hiragana.
+
+[Table 1.2 - Dakuten & Handakuten]
+
+**Youon** are Japanese *diphthongs* (a sound made up of two vowel sounds), created by adding a *y* sound to a syllable ending in *i*. Youon are written with small versions of the hiragana *ya*, *yu* and *yo* (ゃ,　ゅ, and ょ). For example, to write the word "today" (kyou), we add *chiisai yo* ("small yo") to the *ki* hiragana, then add *u*: *きょう*. A table of youon is below. 
+
+[Table 1.3 - Youon]
+
+Finally, there is one more way to show a sound that does not use hiragana: *chiisai tsu* (small 'tsu'). Like the small ya, yo, and yu used to write *youon*, small tsu is just a small form of the hiragana tsu: っ. It's placed before a consonant to show that that consonant is doubled. For instance, the word いってきます is read "ittekimasu", with the doubled "t" in "te" because of the small tsu preceding it.
+
+Now that you can read hiragana, you know everything you need to read small children's books written in Japanese. Head over to the practice section to get some practice decoding hiragana, and take your first steps in reading real Japanese.
+
+### SIDEBAR ###
+
+If you've never heard about voiced and voiceless consonants before, there's an easy way to feel the difference. 
+
+First, lightly place your fingertips on your throat. No need to press hard; please don't hurt yourself!
+
+Next, start making the sound of a voiceless consonant, like *k* or *s* or *f* or *t*. Make it a few times. Get familiar with the feeling.
+
+Now, start making the sound of that consonant's voiced partner: *g* or *z* or *v* or *d*. Keep going. Do you feel the difference? Can you feel the vibration in your throat? Voiced consonants are identical to their voiceless counterparts, with the exception of the vocal cords. Your vocal cords vibrate when you make a voiced sound, hence the name "voiced". If you can remember which consonants are "paired" like this, then you'll find it trivial to remember which kana to add *dakuten* to to make the sound you want.
+
+--- 
+
+### 1.2 - Katakana ###
+
+As we discussed before, the katakana are the second syllabary of written Japanese, used to write foreign words and names, as well as to visually distinguish a portion of text. Below is a table of the katakana.
+
+[Table 1.4 - Katakana]
+
+Like hiragana, we use dakuten, handakuten, and little ya/yu/yo to represent all sounds in Japanese. We also can use dakuten with a few different sounds than in the hiragana, in order to properly represent more foreign sounds. In katakana, we use little forms of the five vowels *a, i, u, e,* and *o* just like we would use little ya/yu/yo to make more sounds possible. For example, we can represent the sound *fa* by using the katakana *fu* with *chiisai a*: ファ. The French name *Raphaël*　is written this way: ラファエル. Underneath, you can see a table with all of these sounds.
+
+[Table 1.5 - Katakana with Dakuten & Handakuten; Youon; and foreign sounds]
+
+Also like hiragana, we use *chiisai tsu* (ッ) to double a consonant in katakana. We also use one feature that hiragana does not normally use: a long dash (ー) to represent the elongation of a vowel. For example, the Japanese word for Australia (オーストラリア) uses one of these dashes, and is read "OOSUTORARIA". (Also, words in katakana are sometimes represented in ALL-CAPS when romanized. It's just convention, but it also helps bring over the effect that katakana have of "standing out" in a longer passage of Japanese.)
+
+Now that you know how to read and write katakana, practice it by trying to write some names and words in English using katakana. Better yet, head over to the practice section, where we have an exercise designed just for that.

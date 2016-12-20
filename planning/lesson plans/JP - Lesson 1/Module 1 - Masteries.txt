@@ -59,8 +59,6 @@ Vocabulary
 		* の
 		* は - cover the complexity sort of, but mainly drill in the primary usage for this level
 		* が - very limited usage
-	- Grammar
-		- ます form; plain form, verb stems (coverage)
 	- Nouns
 		Places:
 			* 学校
@@ -125,7 +123,6 @@ Vocabulary
 		* ～語
 	- Expressions & Adv 
 		* 一人で
-		*　後で？
 	- Question Words
 		* だれ
 		* 何

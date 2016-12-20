@@ -1,0 +1,45 @@
+Textbook
+	Structure based on grammar, introduce vocab in each section for examples.
+
+		1.0 - Overview
+			Description of contents and introduction of all vocab of the chapter.
+		1.1 - The Japanese Writing System
+			  i) Hiragana
+			 ii) Katakana
+			iii) Kanji
+		1.2 - Describing Things
+			  i) X wa Y desu.
+			 ii) noun no noun
+			iii) Adjectives: -i and -na
+		1.3 - Doing Things
+		 	  i) Verbs: Dictionary & Polite Forms in the Non-Past Tense
+			 ii) Intransitive Verbs: X wa [v-int]
+			iii) Transitive Verbs: X wa Y wo [v-t]
+		1.4 - Finding Things Out
+			  i) Questions: The ka particle
+			 ii) Nani!?
+			iii) Question Words: dono, dore, doko
+		1.5 - Indicating Things
+			  i) Demonstrative Adjectives: kono, sono, ano
+			 ii) Demonstrative Pronouns: kore, sore, are
+			iii) Places: koko, soko, asoko
+
+Lectures
+	Use the same structure as the text, and provide more examples. 
+
+Exercises
+	1.1
+		Handwriting upon handwriting.
+	1.2
+	1.3
+	1.4
+	1.5
+
+Games
+	1.1
+	1.2
+	1.3
+	1.4
+		Question game - The prompts use question words, and you provide the answers. 
+	1.5
+		ko / so / a game - choosing the right demonstrative for the location of an object. 

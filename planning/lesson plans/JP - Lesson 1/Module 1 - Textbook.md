@@ -51,90 +51,87 @@ Kanji:
 	曜、間、午、後、前
 	私、学、校、先、生
 
-| Word 		| Meaning 				| Kanji 		| Romaji (M1 only) |
-|---------- |---------------------- |-------------- |------------------|
-| がっこう　		| school				| 学校　			| gakkou 		   |
-| としょかん		| library				|				| toshokan 		   |
-
-きっさてん 		cafe								kissaten
-だいがく		university				大学			daigaku
-しょうがっこう 	elementary school		小学校		shougakkou
-ちゅうがっこう		middle school			中学校		chuugakkou
-こうこう		high school				高校			koukou
-くに			country								kuni
-にほん			Japan 					日本			nihon
-にほんご		Japanese				日本語		nihongo
-えいご			English								eigo
-にほんじん		Japanese person			日本人		nihonjin
-テレビ			T.V.								TEREBI
-でんわ		phone								denwa
-アメリカ		America								AMERIKA
-イギリス		England								IGIRISU
-スペイン		Spain								SUPEIN
-フランス		France								FURANSU
-ちゅうごく		China					中国			chuugoku
-かんこく		Korea								kankoku
-オーストラリア	Australia							OOSUTORARIA
-にちようび		Sunday					日曜日		nichiyoubi
-げつようび		Monday					月曜日		getsuyoubi
-かようび		Tuesday					火曜日		kayoubi
-すいようび		Wednesday				水曜日		suiyoubi
-もくようび		Thursday				木曜日		mokuyoubi
-きんようび		Friday					金曜日		kinyoubi
-どようび		Saturday				土曜日		Saturday
-ひと			person, people			人　			hito
-がくせい		student					学生			gakusei
-せんせい		teacher					先生			sensei
-いちねんせい		first-year student		一年生		ichinensei
-にねんせい		second-year student		二年生		ninensei
-さんねんせい		third-year student		三年生		sannensei
-よねんせい		fourth-year student		四年生		yonensei
-しょうがくせい		elementary student		小学生		shougakusei
-ちゅうがくせい	middle school student	中学生		chuugakusei
-こうこうせい		high school student		高校生		koukousei
-だいがくせい		college student			大学生		daigakusei
-ともだち		friend								tomodachi
-さかな			fish								sakana
-にく			meat								niku
-すし			sushi								sushi
-やさい			vegetables							yasai
-ねこ			cat 								neko
-いぬ			dog 								inu
-とり			bird								tori
-じかん			hour					時間			jikan
-なまえ			name					名前			namae
-えいが			film, movie							eiga
-です			is (copula)							desu
-する　			to do 								suru
-いく　　		to go 					行く　			iku
-くる　			to come  				来る　			kuru
-みる　			to see, to watch		見る			miru
-よむ			to read 							yomu
-はなる			to speak							hanasu
-べんきょうする 	to study 							benkyou suru
-たべる　		to eat								taberu
-のむ			to drink							nomu
-たつ			to stand							tatsu
-すわる			to sit								suwaru
-ねる			to sleep							neru
-わたし　		I, me 					私			watashi
-この			this ... 							kono
-その			that ...							sono
-あの　			that ... (over there)				ano
-これ 			this one							kore
-それ　			that one							sore
-あれ　			that one (over there)				are
-ここ　			here								koko
-そこ　			there 								soko
-あそこ　		over there							asoko
-どの　			which ... ?							dono
-どれ			which one?							dore
-どこ　			where?								doko
-だれ　			who?								dare
-なに			what					何			nani
-ひとりで　		by myself/alone			一人で		hitori de
-
-
+| Word 		| Meaning 				| Kanji 		| Romaji (M1 only) 
+|---------- |---------------------- |-------------- |------------------
+| がっこう　		| school				| 学校　			| gakkou 		   
+| としょかん		| library				|				| toshokan 		   
+| きっさてん 	| cafe					|				| kissaten		   
+| だいがく		| university			| 大学			| daigaku 		   
+| しょうがっこう 	| elementary school		| 小学校			| shougakkou	   
+| ちゅうがっこう	| middle school			| 中学校			| chuugakkou	   
+| こうこう		| high school			| 高校			| koukou 		   
+| くに		| country				| 				| kuni 			   
+| にほん		| Japan 				| 日本			| nihon 		   
+| にほんご		| Japanese				| 日本語			| nihongo 		   
+| えいご		| English				|				| eigo 			   
+| にほんじん	| Japanese person		| 日本人			| nihonjin 		   
+| テレビ		| T.V.					| 				| TEREBI 		   
+| でんわ		| phone					|				| denwa 		   
+| アメリカ		| America				| 				| AMERIKA 		   
+| イギリス		| England				|				| IGIRISU 		   
+| スペイン		| Spain					|				| SUPEIN 		   
+| フランス		| France				|				| FURANSU 		   
+| ちゅうごく		| China					| 中国			| chuugoku		
+| かんこく		| Korea					|				| kankoku
+| オーストラリア	| Australia				|				| OOSUTORARIA
+| にちようび		| Sunday				| 日曜日			| nichiyoubi
+| げつようび	| Monday				| 月曜日			| getsuyoubi
+| かようび		| Tuesday				| 火曜日			| kayoubi
+| すいようび	| Wednesday				| 水曜日			| suiyoubi
+| もくようび		| Thursday				| 木曜日			| mokuyoubi
+| きんようび		| Friday				| 金曜日			| kinyoubi
+| どようび		| Saturday				| 土曜日			| Saturday
+| ひと		| person, people		| 人　			| hito
+| がくせい		| student				| 学生			| gakusei
+| せんせい		| teacher				| 先生			| sensei
+| いちねんせい	| first-year student	| 一年生			| ichinensei
+| にねんせい	| second-year student	| 二年生			| ninensei
+| さんねんせい	| third-year student	| 三年生			| sannensei
+| よねんせい	| fourth-year student	| 四年生			| yonensei
+| しょうがくせい	| elementary student	| 小学生			| shougakusei
+| ちゅうがくせい	| middle school student	| 中学生			| chuugakusei
+| こうこうせい	| high school student	| 高校生			| koukousei
+| だいがくせい	| college student		| 大学生			| daigakusei
+| ともだち		| friend				|				| tomodachi
+| さかな		| fish					|				| sakana
+| にく		| meat					|				| niku
+| すし		| sushi					|				| sushi
+| やさい		| vegetables			|				| yasai
+| ねこ		| cat 					|				| neko
+| いぬ		| dog 					|				| inu
+| とり		| bird					|				| tori
+| じかん		| hour					| 時間			| jikan
+| なまえ		| name					| 名前			| namae
+| えいが		| film, movie			|				| eiga
+| です		| is (copula)			|				| desu
+| する　		| to do 				|				| suru
+| いく　　		| to go 				| 行く　			| iku
+| くる　		| to come  				| 来る　			| kuru
+| みる　		| to see, to watch		| 見る			| miru
+| よむ		| to read 				|				| yomu
+| はなる		| to speak				|				| hanasu
+| べんきょうする 	| to study 				|				| benkyou suru
+| たべる　		| to eat				|				| taberu
+| のむ		| to drink				|				| nomu
+| たつ		| to stand				|				| tatsu
+| すわる		| to sit				|				| suwaru
+| ねる		| to sleep				|				| neru
+| わたし　		| I, me 				| 私				| watashi
+| この		| this ... 				|				| kono
+| その		| that ...				|				| sono
+| あの　		| that ... (over there)	|			 	| ano
+| これ 		| this one				|				| kore
+| それ　		| that one				|				| sore
+| あれ　		| that one (over there)	|				| are
+| ここ　		| here					|				| koko
+| そこ　		| there 				|				| soko
+| あそこ　		| over there			|				| asoko
+| どの　		| which ... ?			|				| dono
+| どれ		| which one?			|				| dore
+| どこ　		| where?				|				| doko
+| だれ　		| who?					|				| dare
+| なに		| what					| 何				| nani
+| ひとりで　		| by myself/alone		| 一人で			| hitori de
 
 # 1.1 - The Japanese Writing System #
 

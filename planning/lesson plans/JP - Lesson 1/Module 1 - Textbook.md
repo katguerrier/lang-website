@@ -6,39 +6,39 @@ It's important to understand, if you've never taken a foreign language before, t
 
 ## Contents of this Chapter ##
 
-1.1 - The Japanese Writing System
-	  i) Hiragana
-	 ii) Katakana
-	iii) Kanji
-		a) Readings: onyomi, kunyomi and more
-		b) Writing Kanji: The Importance of Stroke Order
-	INTERLUDE: Typing in Japanese
-1.2 - Describing Things
-	  i) X wa Y desu.
-	  	a) Sentence Structure in JP: S(O)V & Topic-Comment
-	  	b) Particles in JP: wa as topic-marker
-	  	c) です: the Japanese copula
-	 ii) noun no noun
-	 	a) Particles in JP: no as 'genitive' marker
-	iii) Adjectives: -i and -na
-		a) Adjectives and Verbs: Principles of Conjugation
-		b) Particles in JP: na
-1.3 - Doing Things
- 	  i) Verbs: Dictionary & Polite Forms in the Non-Past Tense
- 	  	a) です and the polite form, だ
- 	  	b) ru verbs and u verbs: Conjugation into -masu form
-	 ii) Intransitive Verbs: X wa [v-int]
-	iii) Transitive Verbs: X wa Y wo [v-t]
-		a) する and compound verbs 
-	INTERLUDE: On Politeness and Respect in Japanese Language and Society
-1.4 - Finding Things Out
-	  i) Questions: The ka particle
-	 ii) Nani!?
-	iii) Question Words: dono, dore, doko
-1.5 - Indicating Things
-	  i) Demonstrative Adjectives: kono, sono, ano
-	 ii) Demonstrative Pronouns: kore, sore, are
-	iii) Places: koko, soko, asoko
+#### 1.1 - The Japanese Writing System #### 
+i) Hiragana
+ii) Katakana
+iii) Kanji
+   a) Readings: onyomi, kunyomi and more
+   b) Writing Kanji: The Importance of Stroke Order
+INTERLUDE: Typing in Japanese
+#### 1.2 - Describing Things ####
+i) X wa Y desu.
+   a) Sentence Structure in JP: S(O)V & Topic-Comment
+   b) Particles in JP: wa as topic-marker
+   c) です: the Japanese copula
+ii) noun no noun
+   a) Particles in JP: no as 'genitive' marker
+iii) Adjectives: -i and -na
+   a) Adjectives and Verbs: Principles of Conjugation
+   b) Particles in JP: na
+#### 1.3 - Doing Things ####
+i) Verbs: Dictionary & Polite Forms in the Non-Past Tense
+   a) です and the polite form, だ
+   b) ru verbs and u verbs: Conjugation into -masu form
+ii) Intransitive Verbs: X wa [v-int]
+iii) Transitive Verbs: X wa Y wo [v-t]
+   a) する and compound verbs 
+INTERLUDE: On Politeness and Respect in Japanese Language and Society
+#### 1.4 - Finding Things Out ####
+i) Questions: The ka particle
+ii) Nani!?
+iii) Question Words: dono, dore, doko
+#### 1.5 - Indicating Things ####
+i) Demonstrative Adjectives: kono, sono, ano
+ii) Demonstrative Pronouns: kore, sore, are
+iii) Places: koko, soko, asoko
 
 ## Vocabulary List ##
 

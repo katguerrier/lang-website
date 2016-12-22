@@ -184,7 +184,7 @@ Now, start making the sound of that consonant's voiced partner: *g* or *z* or *v
 
 --- 
 
-### 1.2 - Katakana ###
+### 1.1.2 - Katakana ###
 
 As we discussed before, the katakana are the second syllabary of written Japanese, used to write foreign words and names, as well as to visually distinguish a portion of text. Below is a table of the katakana.
 
@@ -192,8 +192,40 @@ As we discussed before, the katakana are the second syllabary of written Japanes
 
 Like hiragana, we use dakuten, handakuten, and little ya/yu/yo to represent all sounds in Japanese. We also can use dakuten with a few different sounds than in the hiragana, in order to properly represent more foreign sounds. In katakana, we use little forms of the five vowels *a, i, u, e,* and *o* just like we would use little ya/yu/yo to make more sounds possible. For example, we can represent the sound *fa* by using the katakana *fu* with *chiisai a*: ファ. The French name *Raphaël*　is written this way: ラファエル. Underneath, you can see a table with all of these sounds.
 
-[Table 1.5 - Katakana with Dakuten & Handakuten; Youon; and foreign sounds]
+[Table 1.5 - Katakana with dakuten & handakuten; youon; and foreign sounds]
 
 Also like hiragana, we use *chiisai tsu* (ッ) to double a consonant in katakana. We also use one feature that hiragana does not normally use: a long dash (ー) to represent the elongation of a vowel. For example, the Japanese word for Australia (オーストラリア) uses one of these dashes, and is read "OOSUTORARIA". (Also, words in katakana are sometimes represented in ALL-CAPS when romanized. It's just convention, but it also helps bring over the effect that katakana have of "standing out" in a longer passage of Japanese.)
 
 Now that you know how to read and write katakana, practice it by trying to write some names and words in English using katakana. Better yet, head over to the practice section, where we have an exercise designed just for that.
+
+---
+
+### 1.1.3 - Kanji ### 
+
+Hiragana and katakana were simple enough. But kanji are another thing entirely.
+
+In the olden days, when Japan needed a writing system, they borrowed one from their Chinese neighbors. Chinese is (and thus the kanji are) a logographic script: each character represents one idea. This makes them a more compact way of expressing information, since one root only needs one character. But it also makes it so that you can't just read a word written in kanji phonetically. You need to know the kanji in order to read it. And with the abundance of kanji, that's a tough task; a literate adult speaker of Japanese recognizes *thousands* of kanji. We can make that task easier, though, with some knowledge about the kanji. Each kanji can be read in multiple ways and is composed of varying numbers of pieces, called *radicals*. Let's take a look at these.
+
+#### Readings ####
+
+Because the kanji were borrowed from China, when they were brought over, their original Chinese readings were brought with them. We call these *onyomi*. They've developed from their original forms since then, but when you see onyomi, that's where they come from. *Kunyomi*, on the other hand, are the native Japanese readings of these characters. 
+
+Basically, when the Japanese brought over a character, such as 女 over, there were several things that became associated with it. One is just its meaning; in the case of 女, that's "woman". Another is the way the Chinese pronounced the word they used the character to mean -- the *onyomi*. The onyomi of 女 is じょ, "jo". The last is the Japanese word that matches the character's meaning: おんな, "onna". That's our *kunyomi*. In Chinese, "jo" meant woman, and they used that word for the character. In Japanese, "onna" means woman, and the character gained that reading as well. 
+
+When you read Japanese, you'll find that when a kanji character is part of a compound word (alongside other kanji), you use its *onyomi* reading. On the other hand, when it's on its own (or as a word by itself that's part of a phrase), you'll often use its *kunyomi* reading instead. For example, the word 少女 ("little girl") is a kanji compound, and is read "shoujo", with the *onyomi* of 女. But the phrase "女の人" ("woman") has 女 on its own, and is read "onna no hito" -- using the *kunyomi* instead. This is just a general rule, though, and sometimes you'll just have to learn the word because it doesn't follow the rule. Learning kanji in context -- using vocabulary, rather than drilling one character at a time -- will be most useful to you. 
+
+#### Radicals ####
+
+Now that we've got reading down, what about writing? You can probably get away with writing the character 口 ("mouth") any which way, but for a more complex character like 竜 ("dragon"), you might forget how to write it, or make a mistake in the middle of it. That's where radicals will help you.
+
+**Radicals** are the parts that make up kanji. Sometimes they're characters on their own (一), but they can also get put together to make up bigger characters, like how 千 contains the 一 radical. If you can learn how to recognize radicals, you'll remember kanji better; instead of 錆 ("rust") being a big mess of lines, it becomes "gold + king + yen". They'll also help you write kanji, if you can learn how to write the radicals themselves. Writing kanji can be tricky business, after all. Kanji have a **stroke order** associated with them; that's the order in which you write each stroke of the character, to make up the whole thing. 錆, for example, has 16 strokes, written in a particular order from top-to-bottom and left-to-right. It'd be easy to mix those up if you're trying to write it from memory, but if you remember the radicals, you can write the radicals 金 (8 strokes), 主 (5 strokes), and 円 (4 strokes) in order, although a few strokes disappear when you make up the whole character. Those radicals can be broken down even further themselves (and are more common characters on their own than (錆), making the whole endeavor a lot easier.
+
+So, in short: learn your radicals. They'll help you. Whenever you see a new character, see if there's a part of it you've seen before. Practice writing that part!
+
+[SIDEBAR: FAQ - 'If I learn kanji, can I read Chinese?']
+
+---
+
+### Interlude: Typing in Japanese ###
+
+Over there years, there have been a variety of ways to input and display Japanese on a computer screen, some more complex than others! In the modern day, though, software engineers have finally (mostly) caved into the demands of globalization, and typing in and displaying Japanese is easier than ever before.

@@ -51,10 +51,10 @@ Kanji:
 	曜、間、午、後、前
 	私、学、校、先、生
 
-Word 		Meaning 				Kanji 		Romaji (M1 only)
+| Word 		| Meaning 				| Kanji 		| Romaji (M1 only)
 -----------------------------------------------------------------
-がっこう　		school					学校　		gakkou
-としょかん		library								toshokan
+| がっこう　		| school				| 学校　			| gakkou
+| としょかん		| library				|				| toshokan
 きっさてん 		cafe								kissaten
 だいがく		university				大学			daigaku
 しょうがっこう 	elementary school		小学校		shougakkou

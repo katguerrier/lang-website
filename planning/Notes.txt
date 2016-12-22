@@ -1,3 +1,5 @@
+'Exercise Workshop' -- allow users to create & submit practices, tagged for a specific lesson/module & reinforcing specific skills (design a bunch of these ourselves as well). Think the various games on Quia, but better-organized and reinforcing specific masteries. Vote up/down on user-submitted ones for quality. Works especially well for a spinoff site, where the Subject is based around one 'textbook' with reinforcement from lectures & exercises, and there is consistency in each module.
+----------------------
 [04:33:05] <Wedjat> but I can actually use the grammars
 [04:33:07] <Wedjat> and match to those 
 [04:33:10] <Wedjat> when I have prompts

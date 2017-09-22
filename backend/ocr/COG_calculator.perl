@@ -1,3 +1,11 @@
+# Denn Guerrier
+
+# Many thanks to my dear friend Jes for giving me the Perl skeleton to work with and hack at until it worked.
+# So, this script calculates the "center of gravity" of a character given an input image. 
+# This is part of an OCR algorithm for Japanese handwriting recognition given by Das & Banerjee in their article,
+# "An Algorithm for Japanese Character Recognition", published in the International Journal of Image, Graphics, and
+# Signal Processing in 2015. Full text is linked here: http://www.mecs-press.org/ijigsp/ijigsp-v7-n1/v7n1-2.html
+
 #!/usr/bin/perl
 use warnings;
 use strict;
